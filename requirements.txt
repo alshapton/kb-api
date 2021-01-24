@@ -1,4 +1,4 @@
-kb-manager
+kb-manager==0.1.5
 attr
 attrs
 toml==0.10.2

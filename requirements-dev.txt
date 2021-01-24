@@ -2,6 +2,6 @@
 codespell
 coverage
 flake8
-pyinstaller
+pyinstaller==4.2
 pytest==6.2.1
 pytest-cov

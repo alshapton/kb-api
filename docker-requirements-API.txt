@@ -1,5 +1,5 @@
 attr
-attrs
+attrs==20.3.0
 toml==0.10.2
 flask==1.1.2
 flask-httpauth

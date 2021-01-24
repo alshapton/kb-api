@@ -2,7 +2,7 @@ kb-manager
 attr
 attrs
 toml==0.10.2
-flask
+flask==1.1.2
 toml==0.10.2
 flask==1.1.2
 flask-httpauth

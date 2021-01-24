@@ -1,6 +1,6 @@
 kb-manager
 attr
-attrs
+attrs==20.3.0
 toml==0.10.2
 flask
 toml==0.10.2

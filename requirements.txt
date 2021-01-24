@@ -1,5 +1,5 @@
 kb-manager
-attr
+attr==0.3.1
 attrs
 toml==0.10.2
 flask

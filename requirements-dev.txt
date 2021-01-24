@@ -1,7 +1,7 @@
 -r requirements.txt
-codespell
-coverage
 flake8
-pyinstaller
+codespell==2.0.0
+coverage==5.3.1
+pyinstaller==4.1
 pytest==6.2.1
 pytest-cov==2.11.1

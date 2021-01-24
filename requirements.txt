@@ -5,5 +5,5 @@ toml==0.10.2
 flask
 toml==0.10.2
 flask==1.1.2
-flask-httpauth
+flask-httpauth==4.2.0
 MarkupSafe
